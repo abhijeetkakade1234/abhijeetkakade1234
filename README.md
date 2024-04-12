@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Kakade</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetkakade1234&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetkakade1234" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetkakade1234&theme=chalk" alt="abhijeetkakade1234" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetkakade1234&theme=tokyonight" alt="abhijeetkakade1234" /></a> </p>
 
 - 🌱 I’m currently learning **Android devlopment**
 
@@ -32,10 +32,11 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Engines/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetkakade1234&layout=compact&theme=" alt=abhijeetkakade1234 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetkakade1234&layout=compact&theme=midnight-purple" alt=abhijeetkakade1234 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abhijeetkakade1234&show_icons=true&locale=en&theme=radical" alt="abhijeetkakade1234" /></p>
 
