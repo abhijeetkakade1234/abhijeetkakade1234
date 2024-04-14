@@ -36,6 +36,7 @@
 </p>
 
 <h3 align="left">LeetCode Stats</h3>
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/abhijeet_kakade)](https://leetcode.com/abhijeet_kakade)
 
 <h3 align="left">Stars</h3>
