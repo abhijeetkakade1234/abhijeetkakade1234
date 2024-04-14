@@ -35,6 +35,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
 </p>
 
+<h3 align="left">LeetCode Stats</h3>
 [![Leetcode Stats](https://leetcard.jacoblin.cool/abhijeet_kakade)](https://leetcode.com/abhijeet_kakade)
 
 <h3 align="left">Stars</h3>
