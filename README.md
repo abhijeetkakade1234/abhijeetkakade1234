@@ -62,4 +62,3 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
