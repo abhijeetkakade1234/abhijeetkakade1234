@@ -38,6 +38,7 @@
 <h3 align="left">LeetCode Stats</h3>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/abhijeet_kakade)](https://leetcode.com/abhijeet_kakade)
+<br>
 <img src="2024-50.gif">
 
 <h3 align="left">Stars</h3>
