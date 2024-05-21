@@ -38,7 +38,7 @@
 <h3 align="left">LeetCode Stats</h3>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/abhijeet_kakade)](https://leetcode.com/abhijeet_kakade)
-<br> <h3 align="left">LeetCode Badges Received</h3>
+<br> <h3 align="left">LeetCode Badges Earned</h3>
 <img src="2024-50.gif" height="100">
 
 <h3 align="left">Stars</h3>
