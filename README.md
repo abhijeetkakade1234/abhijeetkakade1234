@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetkakade1234&theme=tokyonight" alt="abhijeetkakade1234" /></a> </p>
 
-<img align="right" alt="Android GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
 - 🌱 I’m currently learning **Android devlopment**
 - 📫 How to reach me **abhijeetskakade04@gmail.com**
 
