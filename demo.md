@@ -1,8 +1,9 @@
+```
 ___  ___  ___   ___  ___  ___  ___   ___  ___  ___  ___ 
 |   \| __|/ __| / __||   \|   \| __| / __|| __|| _ \| __|
 | |) | _|  \__ \| (__ | |) | |) | _| | (__ | _| |  _/| _|
 |___/|___||___/ \___||___/|___/|___| \___||___||_|  |___|
-
+```
 # 👋 Hello, Android Developers!
 
 <img align="right" alt="Android GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
