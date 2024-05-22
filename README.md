@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeetkakade1234&theme=tokyonight" alt="abhijeetkakade1234" /></a> </p>
 
-- 🌱 I’m currently learning **Android devlopment**
 <img align="right" alt="Android GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
+- 🌱 I’m currently learning **Android devlopment**
 - 📫 How to reach me **abhijeetskakade04@gmail.com**
 
 <div> <a href="https://twitter.com/Abhijee65868339" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
