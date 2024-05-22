@@ -61,7 +61,8 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetkakade1234&theme=tokyo-night"/>
 
 ### 😂 Random Dev Meme
-<img src="https://meme-api.com/gimme" alt="Random Meme" width="400">
+<img src="https://meme-api.herokuapp.com/gimme" alt="Random Meme" width="400">
+
 
 
 
