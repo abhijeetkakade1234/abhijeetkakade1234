@@ -64,8 +64,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=abhijeetkakade1234&theme=tokyo-night"/>
 
-### 😂 Random Dev Meme
-<img src="https://meme-api.herokuapp.com/gimme" alt="Random Meme" width="400">
+### 😂 Dev Meme
+<img src="WeAreNotTheSame.jpeg" alt="Meme" width="400">
 
 
 
