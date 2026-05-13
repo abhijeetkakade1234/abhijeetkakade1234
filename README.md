@@ -3,7 +3,7 @@
 abhijeet kakade
 
 > skills
-react • java • node • mongodb • sql
+react • java • node • mongodb • sql • solidity
 
 > currently_learning
 web3 && system_design
