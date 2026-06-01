@@ -9,7 +9,7 @@ react • java • node • mongodb • sql • solidity
 web3 && system_design
 
 > currently_building
-[Breaking ice](breaking-ice.pages.dev)
+[breaking ice](https://breaking-ice.pages.dev)
 
 > projects
 [AVAXVERSE, ayurvault, Fuji, NextFlow]
